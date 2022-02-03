@@ -1,26 +1,7 @@
-# Project 2
+# Welcome to Bagarre CLUB's repo !
 
-bootstrapper CLI for React App with basic conf for Caprover deployment.
-
-It uses [ViteJS](https://vitejs.dev/) ⚡️
-
-## Getting started :pushpin:
-
-Before starting, install the dependencies and the pre-commit hooks with :
-
-```bash
-npm ci
-
-npm run prepare
-
-```
-
-To launch the live server :
-
-```bash
-npm run dev
-
-```
-
-
-
+⚡ This project has been created during 5 weeks and was organized by Wild Code School.<br/>
+The theme was free, we had to code an app that uses API, and we chose a superhero one because it's fun ! 🦸🏾‍♀️🦹‍♂️🦸🏻‍♂️🦹🏿‍♀️<br/><br/>
+Our team was formed by Vincent Lejeune, Isabelle Maitre Jean, Philippe Moty and I, Charlotte Ménard. <br/>
+🤜This project uses Javascript, React, Node.js and CSS3 🤛<br/><br/>
+#💻 You can find the a light version deployed here : https://bagarreclub-p5afdj1vq-vincentcmlejeune.vercel.app/
